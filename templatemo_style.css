@@ -7,7 +7,7 @@ body {
 	font-family: "Trebuchet MS", Verdana, Arial;
 	font-size: 12px;
 	color: #FFFFFF;
-	background: #000000 url(https://raw.githubusercontent.com/TelewizjaN/nSat/refs/heads/main/templatemo_header.jpg) repeat-x;
+	background: #000000 url(templatemo_header.jpg) repeat-x;
 }
 a:link, a:visited { color: #88DDFF; text-decoration: none} 
 a:active, a:hover { color: #FFFF99; text-decoration: underline}
@@ -21,7 +21,7 @@ a:active, a:hover { color: #FFFF99; text-decoration: underline}
 #templatemo_header {
 	clear: left;
 	height: 160px;
-	background: url(https://raw.githubusercontent.com/TelewizjaN/nSat/refs/heads/main/templatemo_bg.gif) no-repeat;
+	background: url(templatemo_bg.gif) no-repeat;
 }
 #templatemo_content {
 	width: 800px;
@@ -110,7 +110,7 @@ a:active, a:hover { color: #FFFF99; text-decoration: underline}
 .post_title {
 	padding: 5px;
 	padding-left: 10px;
-	background: url(https://raw.githubusercontent.com/TelewizjaN/nSat/refs/heads/main/post_title_bg.gif);
+	background: url(post_title_bg.gif);
 	font-size: 12px;
 	font-weight: bold;
 	color: #CCCCCC;
@@ -124,7 +124,7 @@ a:active, a:hover { color: #FFFF99; text-decoration: underline}
 	border: 1px solid #999999;
 }
 .glossymenu li a{
-	background: white url(https://raw.githubusercontent.com/TelewizjaN/nSat/refs/heads/main/button_default.gif) repeat-x center;
+	background: white url(button_default.gif) repeat-x center;
 	font: bold 12px "Trebuchet MS", Verdana, Helvetica;
 	color: #FFFFFF;
 	display: block;
@@ -140,8 +140,9 @@ a:active, a:hover { color: #FFFF99; text-decoration: underline}
 	color: #FFFFFF;
 }
 .glossymenu li a:hover{
-	background-image: url(https://raw.githubusercontent.com/TelewizjaN/nSat/refs/heads/main/button_active.gif);
+	background-image: url(button_active.gif);
 	color: #000000;
 
 }
+
 
