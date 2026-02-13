@@ -21,7 +21,7 @@ a:active, a:hover { color: #FFFF99; text-decoration: underline}
 #templatemo_header {
 	clear: left;
 	height: 160px;
-	background: url(https://raw.githubusercontent.com/TelewizjaN/nSat/refs/heads/main/replacmeent.png) no-repeat;
+	background: url(replacmeent.png) no-repeat;
 }
 #templatemo_content {
 	width: 800px;
@@ -143,4 +143,5 @@ a:active, a:hover { color: #FFFF99; text-decoration: underline}
 	background-image: url(button_active.gif);
 	color: #000000;
 }
+
 
