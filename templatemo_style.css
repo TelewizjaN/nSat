@@ -7,16 +7,11 @@ body {
 	font-family: "Trebuchet MS", Verdana, Arial;
 	font-size: 12px;
 	color: #FFFFFF;
+	background: #000000 url(templatemo_bg.gif) repeat-x;
 }
 a:link, a:visited { color: #88DDFF; text-decoration: none} 
 a:active, a:hover { color: #FFFF99; text-decoration: underline}
 
-# fixed background
-body{
-	background-image: url(replacmeent.png);
-	background-repeat: no-repeat;
-	background-position: center;
-}
 #templatemo_container {
 	width: 800px;
 	margin: 5px auto;
@@ -26,7 +21,7 @@ body{
 #templatemo_header {
 	clear: left;
 	height: 160px;
-	background: url(templatemo_bg.gif) no-repeat;
+	background: url(https://raw.githubusercontent.com/TelewizjaN/nSat/refs/heads/main/replacmeent.png) no-repeat;
 }
 #templatemo_content {
 	width: 800px;
@@ -147,9 +142,5 @@ body{
 .glossymenu li a:hover{
 	background-image: url(button_active.gif);
 	color: #000000;
-
 }
-
-
-
 
