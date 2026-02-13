@@ -11,6 +11,12 @@ body {
 a:link, a:visited { color: #88DDFF; text-decoration: none} 
 a:active, a:hover { color: #FFFF99; text-decoration: underline}
 
+# fixed background
+body{
+	background-image: url(replacmeent.png);
+	background-repeat: no-repeat;
+	background-position: center;
+}
 #templatemo_container {
 	width: 800px;
 	margin: 5px auto;
@@ -143,6 +149,7 @@ a:active, a:hover { color: #FFFF99; text-decoration: underline}
 	color: #000000;
 
 }
+
 
 
 
