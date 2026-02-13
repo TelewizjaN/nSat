@@ -32,7 +32,7 @@ a:active, a:hover { color: #FFFF99; text-decoration: underline}
 	min-height: 400px;
 }
 #templatemo_right_column {
-	background: #444444 url(images/templatemo_right_bg.gif) repeat-x bottom;
+	background: #444444 url(templatemo_right_bg.gif) repeat-x bottom;
 	float: left;
 	width: 200px;
 	min-height: 400px;
@@ -144,3 +144,4 @@ a:active, a:hover { color: #FFFF99; text-decoration: underline}
 	color: #000000;
 
 }
+
